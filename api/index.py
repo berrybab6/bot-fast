@@ -11,7 +11,6 @@ from telegram.ext import Dispatcher,MessageHandler ,Filters,CommandHandler
 
 TOKEN = os.environ.get("TOKEN")
 
-TOKEN = "6121025171:AAEF2n8BfnmWsrp_vkajprGrffwBFYAtpFg"
 app =FastAPI()
 
 class TelegramWebHook(BaseModel):
