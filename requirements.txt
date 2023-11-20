@@ -1,3 +1,5 @@
-python-telegram-bot==20.6
+python-telegram-bot==13.13
 fastapi==0.104.1
+uvicorn==0.24.0.post1
+
 
